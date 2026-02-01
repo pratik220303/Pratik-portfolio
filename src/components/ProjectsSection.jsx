@@ -26,7 +26,7 @@ const projects = [
     tags: ["JavaScript", "React", "REST API", "Tailwind CSS"],
     category: "Web / API",
     icon: Brain,
-    github: "https://github.com/pratik220303/Atelier-E-Commerce",
+    github: "https://github.com/pratik220303/Currency-Converter/tree/main/Currency-Converter",
     demo: "https://currency-converter-zeta-nine-44.vercel.app/",
     featured: true,
   },
