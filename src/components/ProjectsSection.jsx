@@ -15,8 +15,8 @@ const projects = [
     tags: ["HTML", "CSS", "JAvascript", "React", "Tailwind CSS"],
     category: "Frontend",
      icon: TrendingUp,
-    github: "#",
-    demo: "#",
+    github: "https://github.com/pratik220303/Atelier-E-Commerce",
+    demo: "https://atelier-e-commerce-47oh.vercel.app/",
     featured: true,
   },
   {
@@ -26,8 +26,8 @@ const projects = [
     tags: ["JavaScript", "React", "REST API", "Tailwind CSS"],
     category: "Web / API",
     icon: Brain,
-    github: "#",
-    demo: "#",
+    github: "https://github.com/pratik220303/Atelier-E-Commerce",
+    demo: "https://currency-converter-zeta-nine-44.vercel.app/",
     featured: true,
   },
   {
@@ -37,8 +37,8 @@ const projects = [
     tags:["JavaScript", "React", "API Integration", "UI Design"],
     category: "Web Development",
     icon: TrendingUp,
-    github: "#",
-    demo: "#",
+    github: "https://github.com/pratik220303/Weather-Forecast/tree/main/Weather-Forecast-main",
+    demo: "https://weather-forecast-nine-zeta.vercel.app/",
     featured: true,
   },
   
