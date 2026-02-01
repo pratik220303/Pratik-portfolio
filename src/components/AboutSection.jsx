@@ -87,7 +87,7 @@ function AboutSection() {
                   </div>
                 </div>
               </div>
-            </div> */
+            </div> 
 
             {/* Highlight Cards */}
             <div className="grid grid-cols-2 gap-4">
