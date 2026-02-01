@@ -39,11 +39,3 @@ Live Demo: https://pratik-portfolio-nu.vercel.app
 - Contact
 
 ---
-
-
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
